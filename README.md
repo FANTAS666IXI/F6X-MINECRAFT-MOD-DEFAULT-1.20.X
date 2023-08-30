@@ -1,0 +1,2 @@
+# F6X-MINECRAFT-MOD-DEFAULT-1.20X
+Default Minecraft Mod 1.20.X
