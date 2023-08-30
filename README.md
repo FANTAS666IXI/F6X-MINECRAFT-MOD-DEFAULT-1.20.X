@@ -6,7 +6,7 @@
 
 - Versions :
 
-  - F6X MINECRAFT MOD DEFAULT 1.20.X : 0.0.1
+  - F6X MINECRAFT MOD DEFAULT 1.20.X : 1.0.0
 
   - MINECRAFT : 1.20.1
 
